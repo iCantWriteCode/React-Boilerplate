@@ -13,7 +13,7 @@ export default () => {
                    
                 }
                 main {
-                    min-height: 62.07vh;
+                    min-height: calc(100vh - 75px - 213px);
                 }
                 .main-width  {
                     max-width:1000px;
