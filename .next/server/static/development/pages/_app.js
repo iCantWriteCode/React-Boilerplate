@@ -137,7 +137,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_seo__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_seo__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _hoc_Layout_Layout__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./hoc/Layout/Layout */ "./src/hoc/Layout/Layout.js");
 /* harmony import */ var _static_css_main__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../static/css/main */ "./static/css/main.js");
-/* harmony import */ var _static_css_spacing__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../static/css/spacing */ "./static/css/spacing.js");
+/* harmony import */ var _static_css_spacing__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../static/css/spacing */ "./static/css/spacing.js");
 var _jsxFileName = "C:\\Users\\1.0.0\\Desktop\\react-boilerplate\\src\\App.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -191,7 +191,7 @@ function (_App) {
           lineNumber: 15
         },
         __self: this
-      }, Object(_static_css_main__WEBPACK_IMPORTED_MODULE_5__["default"])(), Object(_static_css_spacing__WEBPACK_IMPORTED_MODULE_7__["default"])(), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_hoc_Layout_Layout__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      }, Object(_static_css_main__WEBPACK_IMPORTED_MODULE_5__["default"])(), Object(_static_css_spacing__WEBPACK_IMPORTED_MODULE_6__["default"])(), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_hoc_Layout_Layout__WEBPACK_IMPORTED_MODULE_4__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 18
@@ -760,8 +760,8 @@ function (_Component) {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
-  title: 'DrNeeds | Αγγελίες Ιατρικών Μηχανημάτων | Αγγελίες Ιατρικών Αναλώσιμων | Αγγελίες Ιατρικού Εξοπλισμού',
-  description: 'Η μεγαλύτερη πλατφόρμα αγγελιών ιατρικών μηχανημάτων, ιατρικών αναλωσίμων, ιατρικού εξοπλισμού. Χιλιάδες αγγελίες για μεταχειρισμένα και καινούργια ιατρικά μηχανήματα και αναλώσιμα.',
+  title: 'Site Title',
+  description: 'Site Description',
   openGraph: {
     type: 'website',
     locale: 'el_GR',
