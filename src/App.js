@@ -7,6 +7,11 @@ import Layout from './hoc/Layout/Layout'
 
 import mainCss from '../static/css/main'
 import spacingCss from '../static/css/spacing'
+import flexCss from '../static/css/flex'
+import textCss from '../static/css/text'
+
+
+
 
 class MyApp extends App {
   render() {
@@ -15,6 +20,8 @@ class MyApp extends App {
       <Container>
         {mainCss()}
         {spacingCss()}
+        {flexCss()}
+        {textCss()}
         <Layout>
           <NextSeo config={SEO} />
           <Component {...pageProps} />

@@ -1,5 +1,5 @@
 import React, { Fragment, Component } from 'react'
-import 'antd/dist/antd.css';
+// import 'antd/dist/antd.css';
 
 import Navbar from '../../components/Layout/Navbar/Navbar'
 import Footer from '../../components/Layout/Footer/Footer'
@@ -13,7 +13,7 @@ class Layout extends Component {
                 <main>
                     {this.props.children}
                 </main>
-                <Footer />
+                {/* <Footer /> */}
             </Fragment>
         )
     }

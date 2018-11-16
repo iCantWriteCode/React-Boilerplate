@@ -13,12 +13,13 @@ export default () => {
                    
                 }
                 main {
-                    min-height: calc(100vh - 75px - 213px);
+                    min-height: calc(100vh - 75px);
                 }
                 .main-width  {
                     max-width:1000px;
                     margin: 0 auto;
                 }
+                
             `}
         </style>
     );
